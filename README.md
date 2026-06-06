@@ -31,13 +31,6 @@ Final-Year Computer Science Engineering student passionate about Linux, AI, Larg
 - Kubernetes
 - Git & GitHub
 
-### Web Development
-- HTML
-- CSS
-- JavaScript
-- Flask
-- FastAPI
-
 ## 📌 Current Focus
 
 - Building AI-powered applications
