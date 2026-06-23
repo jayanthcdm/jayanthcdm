@@ -49,7 +49,7 @@ Final-Year Computer Science Engineering student passionate about Linux, AI, Larg
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/jayanthnarayanan12
-- Portfolio: https://jayanthcdm.github.io
+- Portfolio: https://jayanthcdm.github.io/jayanthportfolio.github.io/
 - Email: jayanth.cse@outlook.com
 
 ---
